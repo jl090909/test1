@@ -1,0 +1,7 @@
+[user]
+	name = lionel joseph
+	email = lionel222@ymail.com
+[push]
+	default = matching
+[alias]
+	co = checkout
